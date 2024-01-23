@@ -12,18 +12,18 @@ I have not implemented it for UIKit and SwiftUI, but it would be possible to cal
 ## More info
 
 - Font feature registry
-	https://developer.apple.com/fonts/TrueType-Reference-Manual/RM09/AppendixF.html
+	- https://developer.apple.com/fonts/TrueType-Reference-Manual/RM09/AppendixF.html
 
 - Layout defines
-	"CoreText/SFNTLayoutTypes.h"
+	- "CoreText/SFNTLayoutTypes.h"
 
 - Syntax for OpenType features in CSS
-	https://helpx.adobe.com/fonts/using/open-type-syntax.html
-	https://helpx.adobe.com/jp/fonts/using/open-type-syntax.html (JP)
+	- https://helpx.adobe.com/fonts/using/open-type-syntax.html
+	- https://helpx.adobe.com/jp/fonts/using/open-type-syntax.html (JP)
 
 - Character variants / Stylistic set
-	https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-cv01--cv99
-	https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#ssxx
+	- https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-cv01--cv99
+	- https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#ssxx
 
 
 ## License
